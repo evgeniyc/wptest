@@ -1,0 +1,86 @@
+/*
+Theme Name: My Theme
+Theme URI: https://wordpress.org/themes/mytheme/
+Author: the Evgeny Chepur
+Author URI: https://wordpress.org/
+Description: Simple test theme.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: test theme
+Text Domain: mytheme
+*/
+#custom-logo
+{
+	width: 400px;
+	float: left;
+}
+#site-tytle
+{
+	float: left;
+	font-style: italic;
+}
+#site-tytle a
+{
+	color: red;
+	text-decoration: none;
+}
+#site-descr
+{
+	color: blue;
+}
+#content
+{
+	width: 100%;
+}
+#post-image
+{
+	
+}
+#primary
+{
+	width: 75%;
+	float: left;
+}
+#secondary
+{
+	width: 25%;
+	float: left;
+}
+.primary-menu
+{
+	display: inline-block;
+}
+.primary-menu li
+{
+	float: left;
+	list-style: none;
+	padding-right: 10px;
+}
+.primary-menu a
+{
+	text-decoration: none;
+	border: 1px solid black;
+	border-radius: 5px;
+	background: grey;
+	color: white;
+	padding: 4px;
+}
+#basket-form
+{
+	border: 1px solid black;
+	border-radius: 5px;
+	margin-left: 15px;
+	padding: 25px 50px;
+	width: 160px;
+	background: #aefcda;
+}
+footer
+{
+	text-align: center;
+}
+
+.clearfix
+{
+	clear: both;
+}

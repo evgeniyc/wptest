@@ -1,0 +1,40 @@
+.wpt-block
+{
+	height: 300px;
+	width: 30%;
+	padding: 5px;
+	float: left;
+	border: 1px solid black;
+	background: #acf2e2;
+}
+.wpt-block-single
+{
+	width: 95%;
+	padding: 5px;
+	border: 1px solid black;
+	background: #acf2e2;
+}
+.wpt-product
+{
+	height: 65%;
+}
+.wpt-product h3
+{
+	text-align: center;
+}
+
+.wpt-button-block
+{
+	height: 35%;
+	text-align: center;
+	
+}
+.wpt-button
+{
+	font-size: 8pt !important;
+	margin-bottom: 5px;
+}
+#basket-form input[type=submit]
+{
+	margin: 15px;
+}
